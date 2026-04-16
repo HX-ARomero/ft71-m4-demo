@@ -4,7 +4,7 @@
 
 > Docker es una plataforma de contenedores que permite empaquetar, distribuir y ejecutar aplicaciones junto con todas sus dependencias en un entorno aislado y reproducible llamado contenedor.
 
-## ¿QUÉ PROBLEMA VIENA A RESOLVER?
+## ¿QUÉ PROBLEMA VIENE A RESOLVER?
 
 <img src="./assets/12-02.png" style="margin: 20px 0 60px 0">
 
